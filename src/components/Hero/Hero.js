@@ -15,7 +15,11 @@ const Hero = (props) => (
         Welcome to <br />
         My Personal Portfolio
       </SectionTitle>
-      <SectionText></SectionText>
+      <SectionText>
+        I am an full-stack web developer and know something about UI/UX also.
+        React and NextJs are my speciality. Feel free to take a look at my
+        latest projects on the web portfolio page.
+      </SectionText>
     </LeftSection>
   </Section>
 );
